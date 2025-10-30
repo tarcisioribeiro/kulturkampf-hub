@@ -1,8 +1,6 @@
 # kulturkampf
 Hub de escritores do KulturKampf.
 
-Hub do Kulturkampf
-
 Descrição geral
 
 Plataforma para centralizar, analisar e compartilhar perfis e publicações dos membros do Valete e Substack, promovendo integração de conteúdo, métricas de produção e interação inteligente via bot do grupo.
